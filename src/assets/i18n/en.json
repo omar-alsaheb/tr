@@ -1,0 +1,8 @@
+{
+  "WELCOME": "Welcome to Angular Internationalization",
+  "HELLO": "Hello",
+  "INTRO": "This is a simple demonstration of ngx-translate",
+  "LANGUAGE": "Language",
+  "ENGLISH": "English",
+  "ARABIC": "Arabic"
+}
